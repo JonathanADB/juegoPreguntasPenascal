@@ -2,7 +2,7 @@
     {
         
         "question": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
-        "ayuda": "labrador Retriver",
+        "ayuda": "Ends in :Retriver",
         "answers": [
             "Labrador Retriever",
             "Dalmatian",
@@ -13,6 +13,7 @@
     },
     {
         "question": "Which of the following is not the name of a \"Bond Girl\"? ",
+        "ayuda": "Ends in :ton",
         "answers": [
             "Pam Bouvier",
             "Vanessa Kensington",
@@ -23,6 +24,7 @@
     },
     {
         "question": "Which movie released in 2016 features Superman and Batman fighting?",
+        "ayuda": " In the middle it has an: Of",
         "answers": [
             "Batman v Superman: Black of Knight",
             "Batman v Superman: Knightfall",
@@ -33,6 +35,7 @@
     },
     {
         "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+        "ayuda": "I had a baby mark",
         "answers": [
             "Ted",
             "Spy Kids",
@@ -43,6 +46,7 @@
     },
     {
         "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie \"Batman\"?",
+        "ayuda": "He made the movie in 1989",
         "answers": [
             "Michael Keaton",
             "Val Kilmer",
@@ -53,6 +57,7 @@
     },
     {
         "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+        "ayuda": "Name of a recognized brand",
         "answers": [
             "Billy",
             "Jones",
@@ -63,6 +68,7 @@
     },
     {
         "question": "Who directed \"E.T. the Extra-Terrestrial\" (1982)?",
+        "ayuda": "His first and last name have S",
         "answers": [
             "Steven Spielberg",
             "Stanley Kubrick",
@@ -73,6 +79,7 @@
     },
     {
         "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+        "ayuda": "I was flying with a carpet",
         "answers": [
             "Toy Story",
             "James and the Giant Peach",
@@ -83,6 +90,7 @@
     },
     {
         "question": "When was the movie 'Con Air' released?",
+        "ayuda": "10-3",
         "answers": [
             "1997",
             "1985",
@@ -93,6 +101,7 @@
     },
     {
         "question": "Who wrote and directed the 1986 film 'Platoon'?",
+        "ayuda": "He was also the creator of the movie Twin Towers.",
         "answers": [
             "Francis Ford Coppola",
             "Oliver Stone",
@@ -103,6 +112,7 @@
     },
     {
         "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
+        "ayuda": "Recognized actress in the past",
         "answers": [
             "Harrison Ford",
             "Tommy Lee Jones",
@@ -113,6 +123,7 @@
     },
     {
         "question": "Who played the female lead in the 1933 film \"King Kong\"?",
+        "ayuda": "Was a Canadian actress who developed her career in the United States",
         "answers": [
             "Fay Wray",
             "Mae West",
@@ -123,6 +134,7 @@
     },
     {
         "question": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Kathy Griffin",
             "Pam Grier",
@@ -133,6 +145,7 @@
     },
     {
         "question": "Who starred in the film 1973 movie \"Enter The Dragon\"?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             " Yun-Fat Chow",
             "Jackie Chan",
@@ -143,6 +156,7 @@
     },
     {
         "question": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Quentin Tarantino",
             "Steven Spielberg",
@@ -153,6 +167,7 @@
     },
     {
         "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Flash Gordon",
             "Labyrinth",
@@ -163,6 +178,7 @@
     },
     {
         "question": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+        "ayuda": "Termina en :le",
         "answers": [
             "Parker",
             "Day",
@@ -173,6 +189,7 @@
     },
     {
         "question": "This movie contains the quote, \"I feel the need ... the need for speed!\"",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Top Gun",
             "Days of Thunder",
@@ -183,6 +200,7 @@
     },
     {
         "question": "This movie contains the quote, \"Nobody puts Baby in a corner.\"",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Pretty in Pink",
             "Ferris Bueller's Day Off",
@@ -193,6 +211,7 @@
     },
     {
         "question": "What is the orange and white bot's name in \"Star Wars: The Force Awakens\"?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "AA-A",
             "BB-3",
@@ -203,6 +222,7 @@
     },
     {
         "question": "What was the first James Bond film?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Goldfinger",
             "Dr. No",
@@ -213,6 +233,7 @@
     },
     {
         "question": "Which of these movies did Jeff Bridges not star in?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "The Giver",
             "Tron: Legacy",
@@ -223,6 +244,7 @@
     },
     {
         "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Hop",
             "My Neighbor Totoro",
@@ -233,6 +255,7 @@
     },
     {
         "question": "Who plays Alice in the Resident Evil movies?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Madison Derpe",
             "Kim Demp",
@@ -243,6 +266,7 @@
     },
     {
         "question": "What is the oldest Disney film?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Dumbo",
             "Snow White and the Seven Dwarfs",
@@ -253,6 +277,7 @@
     },
     {
         "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Marty McFly",
             "George McFly",
@@ -263,6 +288,7 @@
     },
     {
         "question": "In the movie \"Cast Away\" the main protagonist's best friend while on the island is named",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Willy",
             "Wilson",
@@ -273,6 +299,7 @@
     },
     {
         "question": "In \"Jurassic World\", what is the name of the dinosaur that is a genetic hybrid?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Mosasaurus",
             "Pteranodon",
@@ -283,6 +310,7 @@
     },
     {
         "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Alec Guinness",
             "Ewan McGregor",
@@ -293,6 +321,7 @@
     },
     {
         "question": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "The Schwartz",
             "Air",
@@ -303,6 +332,7 @@
     },
     {
         "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Midnight",
             "Morning",
@@ -313,6 +343,7 @@
     },
     {
         "question": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Before Episode 1",
             "Between Episode 4 and 5",
@@ -323,6 +354,7 @@
     },
     {
         "question": "In the 2012 film, \"The Lorax\", who is the antagonist?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Grammy Norma",
             "The Once-Ler",
@@ -333,6 +365,7 @@
     },
     {
         "question": "At the end of the 2001 film \"Rat Race\", whose concert do the contestants crash?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Sum 41",
             "Smash Mouth",
@@ -343,6 +376,7 @@
     },
     {
         "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "McConahey Ramses",
             "Jack Black",
@@ -353,6 +387,7 @@
     },
     {
         "question": "The 2016 Disney animated film 'Moana' is based on which culture?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Japanese",
             "Nordic",
@@ -363,6 +398,7 @@
     },
     {
         "question": "In the 1995 film \"Balto\", who are Steele's accomplices?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Dusty, Kirby, and Ralph",
             "Jenna, Sylvie, and Dixie",
@@ -373,6 +409,7 @@
     },
     {
         "question": "What is the name of the island that \"Jurassic Park\" is built on?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Isla Pena",
             "Isla Sorna",
@@ -383,6 +420,7 @@
     },
     {
         "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Perfect.",
             "Groovy.",
@@ -393,6 +431,7 @@
     },
     {
         "question": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Anemia",
             "Constipation",
@@ -403,6 +442,7 @@
     },
     {
         "question": "What was the first feature-length computer-animated movie?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Tron",
             "101 Dalmatians",
@@ -413,6 +453,7 @@
     },
     {
         "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Tokysisco",
             "Sankyo",
@@ -423,6 +464,7 @@
     },
     {
         "question": "Where does the original Friday The 13th movie take place?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Packanack",
             "Higgins Haven",
@@ -433,6 +475,7 @@
     },
     {
         "question": "In which film does Humphrey Bogart say the famous line, \"Here's looking at you, kid\"?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "The Maltese Falcon",
             "Citizen Kane",
@@ -443,6 +486,7 @@
     },
     {
         "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Ming Tea",
             "Spear Mint",
@@ -453,6 +497,7 @@
     },
     {
         "question": "Who directed the Kill Bill movies?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Stanley Kubrick",
             "Arnold Schwarzenegger",
@@ -463,6 +508,7 @@
     },
     {
         "question": "In \"ALF\", what was ALF's real name?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Gordon Foster",
             "Gordon von Gam",
@@ -473,6 +519,7 @@
     },
     {
         "question": "Which of the following actors has only been in a Quentin Tarantino directed film once?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Christoph Waltz",
             "John Travolta",
@@ -483,6 +530,7 @@
     },
     {
         "question": "What historical time period was the center of the Assassin’s Creed movie (2016)?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "Victorian England",
             "Spanish Inquisition",
@@ -493,6 +541,7 @@
     },
     {
         "question": "In the movie \"V for Vendetta,\" what is the date that masked vigilante \"V\" urges people to remember?",
+        "ayuda": "Termina en :Retriver",
         "answers": [
             "November 4th",
             "September 5th",
