@@ -1,4 +1,30 @@
-const preguntasRespuestas = require("")
+const preguntasRespuestas = [
+    {
+        "question": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
+        "ayuda": "labrador retriver",
+        "answers": ["Labrador Retriever", 
+        "Dalmatian", "Golden Retriever", 
+        "Shiba Inu"],
+        "correct": "Labrador Retriever"
+    },
+    {
+        "question": "Which of the following is not the name of a \"Bond Girl\"? ",
+        "answers": ["Pam Bouvier", 
+        "Vanessa Kensington", 
+        "Wai Lin", "Mary Goodnight"],
+        "correct": "Vanessa Kensington"
+    },
+    {
+        "question": "Which movie released in 2016 features Superman and Batman fighting?",
+        "answers": [
+            "Batman v Superman: Black of Knight",
+            "Batman v Superman: Knightfall",
+            "Batman v Superman: Superapocalypse",
+            "Batman v Superman: Dawn of Justice"
+        ],
+        "correct": "Batman v Superman: Dawn of Justice"
+    }
+];
 let indicePreguntaActual = 0;
 
 
