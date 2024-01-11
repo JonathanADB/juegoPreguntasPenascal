@@ -68,6 +68,8 @@ function siguientePregunta() {
 // Iniciar el juego mostrando la primera pregunta
 mostrarPregunta();
 
+
+//con esta funion sale el cuadro de ayuda 
 function ayuda() {
     Swal.fire({
       title: "Ayuda",
