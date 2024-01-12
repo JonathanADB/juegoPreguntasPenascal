@@ -10,6 +10,7 @@ async function mostrarPregunta(preguntasRespuestas) {
   const preguntaActual = preguntasRespuestas[indicePreguntaActual];
   const preguntaContainer = document.getElementById("pregunta-container");
   preguntaContainer.innerHTML = "";
+  
   const preguntaElemento = document.createElement("div");
   preguntaElemento.innerHTML = "<p>" + preguntaActual.question + "</p>";
   preguntaActual.answers.forEach(function (respuesta, index) {
@@ -45,23 +46,28 @@ async function siguientePregunta() {
     }
   }
   
-
-
-
-
-
-
-
 // Iniciar el juego mostrando la primera pregunta
 iniciarJuego();
 
-// con esta función sale el cuadro de ayuda
-function ayuda() {
+
+// En la función obtenerYMostrarAyuda(), pasa también el índice de la pregunta actual
+async function obtenerYMostrarAyuda() {
+  // Llama a la función obtenerPreguntasRespuestas para obtener los datos
+  const preguntasRespuestas = await obtenerPreguntasRespuestas();
+  
+   // Llama a la función ayuda pasándole los datos obtenidos y el índice de la pregunta actual
+   ayuda(preguntasRespuestas, indicePreguntaActual);
+}
+
+// Función de ayuda que ahora recibe preguntasRespuestas como argumento
+function ayuda(preguntasRespuestas, indicePreguntaActual) {
+  // Utiliza SweetAlert para mostrar la ayuda
   Swal.fire({
     title: "Ayuda",
-    text: preguntasRespuestas[0].ayuda,
-    imageHeight: 300,
+    text: preguntasRespuestas[indicePreguntaActual].ayuda,
+    height: 300,
   });
 }
 
-document.getElementById("ayuda").addEventListener("click", ayuda);
+
+
